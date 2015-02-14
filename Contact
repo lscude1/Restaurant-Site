@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="Week 2 Assignment" content="" /> <!-- Your Assignment Name Goes Here -->
+    <meta name="lscude1@bulldogs.mgccc.edu" content="" /> <!-- Your Student Email Address Goes Here -->
+    <link rel="stylesheet" href="../basic-site-template/css/normalize.css">
+    <link rel="stylesheet" href="../basic-site-template/css/styles.css"/>
+  <script type="text/javascript" src="../basic-site-template/js/scripts.js"></script>
+    <title>Scuderi's Italian Restaurant</title>
+  </head>
+<body>
+<div id="wrapper">
+  <header>
+      <hgroup>
+        <h1>Scuderi Cafe</h1>
+        <h3><img src="images/banner0.jpg" alt="" width="562" height="121" /></h3>
+	</hgroup>
+  </header>
+	<nav>
+    <div id="logo">
+			<img src="images/foodflag.jpg" alt="" width="140" height="120" />
+			</div>
+      <ul>
+        <li><a href="index.html">Home</a></li>&nbsp;
+        <li><a href="menu.html">Menu</a></li>&nbsp;
+        <li><a href="about.html">About</a></li>&nbsp;
+        <li><a href="contact.html">Contact</a></li>&nbsp;
+      </ul>
+	</nav>
+	<div id="rightcolumn">
+      <dl><img src="images/catania.jpg" alt="" width="500" height="350" />
+          <dt class="category">About this Establishment</dt>&nbsp;&nbsp;&nbsp;
+</dl>
+<P>The orign of this idea is to bring some italian culture along with authentic italian food to the coast. Most of our food originates from Catania, Sicily. We have Cafe Bars which are really Cafe restaurants for people on the go. <br> I often still remember my father and grandfather taking me before school to get something for lunch or sometimes with my friends for coffee. I hope that i can share the culture of my country with my community to better enrich our culture here in the Gulf Goast. <br> With that said come on over and try some of our delicious cousine! </P>
+    
+    
+<div id="footer">
+<div class="nav"><a href="index.html">Home</a> &nbsp;&nbsp;
+				<a href="menu.html">Menu</a> &nbsp;&nbsp;
+                <a href="about.html">About</a> &nbsp;&nbsp;
+                <a href="contact.html">Contact</a></div>
+created by Luca Daniele Scuderi:<br />
+<a href="mailto:luca@scuderi.com">etneo81@gmail.com</a></div></div>
+
+</div>
+</body>
+</html>
