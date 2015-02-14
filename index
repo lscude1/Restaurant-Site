@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="Week 2 Assignment" content="" /> <!-- Your Assignment Name Goes Here -->
+    <meta name="lscude1@bulldogs.mgccc.edu" content="" /> <!-- Your Student Email Address Goes Here -->
+    <link rel="stylesheet" href="../basic-site-template/css/normalize.css">
+    <link rel="stylesheet" href="../basic-site-template/css/styles.css"/>
+  <script type="text/javascript" src="../basic-site-template/js/scripts.js"></script>
+    <title>Scuderi's Italian Restaurant</title>
+  </head>
+<body>
+<div id="wrapper">
+  <header>
+      <hgroup>
+        <h1>Scuderi Cafe</h1>
+        <h3>Italian Cousine</h3>
+	</hgroup>
+  </header>
+	<nav>
+    <div id="page" class="container">
+	<div id="header">
+		<div id="logo">
+			<img src="images/foodflag.jpg" alt="" width="140" height="120" />
+			
+	  </div>
+      <ul>
+        <li><a href="index.html">Home</a></li>&nbsp;
+        <li><a href="menu.html">Menu</a></li>&nbsp;
+        <li><a href="about.html">About</a></li>&nbsp;
+        <li><a href="contact.html">Contact</a></li>&nbsp;
+      </ul>
+	</nav>
+	<div id="rightcolumn">
+      <dl>
+          <dt class="category">Hello and Welcome to Scuderi's Cafe!</dt>&nbsp;&nbsp;&nbsp;
+          <dd>&nbsp;</dd>
+  <dd>We are an authentic Italian Style Coffee bar and serve authentic Italian coffee, pastries and "tavola calda" in other words pizzas calzones on the go!.</dd>&nbsp;&nbsp;&nbsp;
+      <dt class="category">Come and enjoy the simple things in life. Sit down take it easy and enjoy one of the finest espresso bars on the coast.</dt>&nbsp;&nbsp;&nbsp;
+      <dd>So come on by, relax and take a break from work and enjoy a delicious italian mini pizza or calzone.</dd>&nbsp;&nbsp;&nbsp;
+	<dt class="category">Take a moment to check out our <a href="menu.html">menu</a>
+      </dl>
+	<dd>Our hours of operation are MTWFS (6 am to 8 pm). closed on Sundays</dd>&nbsp;&nbsp;&nbsp;
+	<div><img src="images/blubar_small_banner.jpg" alt="" width="500" height="207" />
+	</div>
+<br />
+<div id="footer">
+<div class="nav"><a href="index.html">Home</a> &nbsp;&nbsp;
+				<a href="menu.html">Menu</a> &nbsp;&nbsp;
+                <a href="about.html">About</a> &nbsp;&nbsp;
+                <a href="contact.html">Contact</a></div>
+created by Luca Daniele Scuderi:<br />
+<a href="mailto:luca@scuderi.com">etneo81@gmail.com</a></div></div>
+
+</div>
+</body>
+</html>
