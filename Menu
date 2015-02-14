@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="Week 2 Assignment" content="" /> <!-- Your Assignment Name Goes Here -->
+    <meta name="lscude1@bulldogs.mgccc.edu" content="" /> <!-- Your Student Email Address Goes Here -->
+    <link rel="stylesheet" href="../basic-site-template/css/normalize.css">
+    <link rel="stylesheet" href="../basic-site-template/css/styles.css"/>
+  <script type="text/javascript" src="../basic-site-template/js/scripts.js"></script>
+    <title>Scuderi's Italian Restaurant</title>
+  </head>
+<body>
+<div id="wrapper">
+  <header>
+      <hgroup>
+        <h1>Scuderi Cafe</h1>
+        <h3><img src="images/banner0.jpg" alt="" width="562" height="121" /></h3>
+	</hgroup>
+  </header>
+	<nav>
+    <div id="page" class="container">
+	<div id="header">
+		<div id="logo">
+			<img src="images/foodflag.jpg" alt="" width="140" height="120" />
+			
+	  </div>
+      <ul>
+        <li><a href="index.html">Home</a></li>&nbsp;
+        <li><a href="menu.html">Menu</a></li>&nbsp;
+        <li><a href="about.html">About</a></li>&nbsp;
+        <li><a href="contact.html">Contact</a></li>&nbsp;
+      </ul>
+	</nav>
+	<div id="rightcolumn">
+      <dl>
+          <dt class="category">MENU ITEMS</dt>&nbsp;&nbsp;&nbsp;
+          <dd>
+          <div><img src="images/panetteria_rosticceria_N.jpg" alt="" width="400" height="207" /></div>
+          </dl>
+       <dt class="category">Tavola Calda</dt>&nbsp;&nbsp;&nbsp;
+       
+  <dd><img src="images/Arancino-o-Arancina.jpg" alt="" width="140" height="80" />&nbsp; Arancini - fried stuffed riceballs</dd>&nbsp;&nbsp;&nbsp;
+  <dd><img src="images/pizzetta-ingrosso-azienda.jpg" alt="" width="140" height="80" />&nbsp; Pizzetta - mini pizza (cheese, peperoni, or ham)</dd>&nbsp;&nbsp;&nbsp;
+  <dd><img src="images/acirealecartocciate2.jpg" alt="" width="140" height="80" />&nbsp; Cartocciata - mini calzone or stuffed pizza (cheese, peperoni, or ham)</dd>&nbsp;&nbsp;&nbsp;
+  <dd><img src="images/Italian-Grilled-Cheese-Panini.jpg" alt="" width="140" height="80" />&nbsp; Panini - Variety of grilled italian sandwiches such as our fine Caprese sandwich</dd>&nbsp;&nbsp;&nbsp;
+      <dt class="category">Italian Desserts</dt>&nbsp;&nbsp;&nbsp;
+      <div><img src="images/vetrina01a-lg.jpg" alt="" width="500" height="207" />
+	</div>&nbsp;&nbsp;&nbsp;
+
+	<dd><img src="images/babc3a0.jpg" alt="" width="140" height="80" />&nbsp; Baba` - Sicilian mini sponge cake soaked with sweet liquor served with fresh cream or custard</dd>&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
+	<dd><img src="images/cannolo siciliano.jpg" alt="" width="140" height="80" />&nbsp; Cannoli - classic sicilian cannoli made with sweet ricotta filling or choccolate custard</dd>&nbsp;&nbsp;&nbsp;
+    <dd><img src="images/tiramisu_wideweb__470x312,0.jpg" alt="" width="140" height="80" />&nbsp; Tiramisu` - classic italian coffe desert with mascarpone cheese cream</dd>&nbsp;&nbsp;&nbsp;
+    <dd><img src="images/Trancetti-diplomatici.jpg" alt="" width="140" height="80" />&nbsp; Diplomatico - a combination of puff pastry and sponge cake with a delicious custard filling makes the Diplomatico irresistible</dd>&nbsp;&nbsp;&nbsp;
+    
+    
+<div id="footer">
+<div class="nav"><a href="index.html">Home</a> &nbsp;&nbsp;
+				<a href="menu.html">Menu</a> &nbsp;&nbsp;
+                <a href="about.html">About</a> &nbsp;&nbsp;
+                <a href="contact.html">Contact</a></div>
+created by Luca Daniele Scuderi:<br />
+<a href="mailto:luca@scuderi.com">etneo81@gmail.com</a></div></div>
+
+</div>
+</body>
+</html>
