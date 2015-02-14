@@ -1,0 +1,116 @@
+header, nav, figure, footer { display: block; } 
+body {
+	background-color: #1F1F1F;
+	color: #d5e3ff;
+	font-family: Verdana;
+	background-image: url(../basic-site-template/css/gradientblue.jpg);
+}
+
+ul {list-style-type:none; }
+nav { float: left;
+	 width: 150px;
+	 padding-top: 10px;
+	 text-align: center;
+	 font-weight: bold; }
+nav a { text-decoration: none;
+	padding-bottom: 15px;}
+nav a:link { color: #3262A3; }
+nav a:visited { color: #6699FF; }
+nav a:hover { color: #CCCCCC; }
+nav ul {
+	list-style-type: none;
+	padding-left: 0;
+	text-shadow: 0px 0px #CFA700;
+}
+#footer {
+	color: #000000;
+	font-size: .70em;
+	font-style: italic;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	overflow: auto;
+}
+footer a:link { color: #3262A3; }
+footer a:visited { color: #6699FF; }
+footer a:hover {color: #CCCCCC; }
+#wrapper { margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	background-color: #FFFFFF;
+	color: #000066;
+	min-width: 700px;
+	-webkit-box-shadow: 5px 5px 5px #828282;
+	-moz-box-shadow: 5px 5px 5px #828282;
+	box-shadow: 5px 5px 5px #828282;
+	}
+#rightcolumn {
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 10px;
+	margin-left: 180px;
+	color: #FBFCFF;
+}
+	
+#services {
+font-family:Verdana, Arial, sans-serif;
+table-layout:auto;
+border-collapse:collapse;
+border:2px solid #6699ff;
+}
+#services td, th 
+{
+font-size:1em;
+padding:10px;
+color:#000000;
+border:1px solid #6699ff;
+border-collapse:collapse;
+}
+
+img {border: 0;}
+header {
+	background-color: #0082CB;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	font-family: Serif;
+	line-height: 200%;
+}
+header h1 { margin: 0; }
+.category { font-weight: bold;
+	color: #003366;
+	font-size: 1.1em; }
+h2 { display:block;
+     color:#3262A3; 
+    }
+form { background-color:#ffffff;
+	font-family: Arial, sans-serif;
+	width: 350px; 
+    padding: 10px;	}
+label { float:left;
+	width:120px; 
+	display:block; 
+    clear:left;
+	text-align:right; 
+	padding-right: 30px;
+	margin-top: 0px;
+	margin-bottom: 20px; }
+input, textarea { margin-bottom: 20px; 
+                  display: block;} 
+#mySubmit { margin-left:148px; }
+
+	
+
+
+
+
+.category {
+	font-weight: bold;
+	color: #001021;
+	font-size: 1.1em;
+}
+
+	
+#wrapper #rightcolumn #footer a {
+}
